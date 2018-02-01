@@ -1,3 +1,7 @@
 #body .padding {
     padding: 1rem 5rem;
 }
+
+#grav-logo {
+    max-width: 80%;
+}
