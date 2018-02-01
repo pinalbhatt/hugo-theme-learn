@@ -2,11 +2,8 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 weight: 5
-chapter: true
-pre: "<b>X. </b>"
+pre: <b>x.</b>
 ---
-
-### Chapter X
 
 # Some Chapter title
 

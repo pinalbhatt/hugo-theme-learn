@@ -4,4 +4,6 @@ date =  {{ .Date }}
 weight = 5
 +++
 
+# Some title
+
 Lorem Ipsum.
